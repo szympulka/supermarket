@@ -12,6 +12,7 @@ int main()
 
 	Towar *a = new Wyswietl;
 	Find k1;
+	Login k2;
 
 	for (;;)
 	{
@@ -30,7 +31,7 @@ int main()
 		case '1': a->add(); system("cls");			 break;
 		case '2': system("cls");  a->show();		 break;
 		case '3': system("cls");  k1.find();		 break;
-
+		case '9': system("cls");  k2.pass();		 break;
 		}
 	}
 }

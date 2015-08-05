@@ -85,6 +85,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="add.cpp" />
+    <ClCompile Include="Admin.cpp" />
     <ClCompile Include="find.cpp" />
     <ClCompile Include="show.cpp" />
     <ClCompile Include="Sklep.cpp" />

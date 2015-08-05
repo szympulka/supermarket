@@ -128,3 +128,30 @@ public:
 	void find();
 };
 
+class Login
+{
+public:
+	void pass();
+};
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
